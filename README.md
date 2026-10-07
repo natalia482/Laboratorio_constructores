@@ -15,4 +15,7 @@ PREGUNTA ANALÍTICA EJERCICIO 1
  ¿Qué ventajas a nivel de cohesión de software presenta el hecho de que el objeto conozca por si mismo su estado lógico?
  /* Sirve para que cada objeto sepa que responsabilidades tiene 
 
- 
+ PREGUNTA ANALÍTICA EJERCICIO 5
+
+ ¿Qué ocurriría si el libro ya estaba prestao y alguien intenta prestarlo nuevamente sin controles de estado internos?
+ /*Ocurriría un error
